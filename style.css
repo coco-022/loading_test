@@ -1,0 +1,9 @@
+.image_outer {
+  width: 500px;
+  margin: 1000px auto;
+  overflow: hidden;
+  box-shadow: rgb(0 0 0 / 30%) 0 0 10px 0px;
+}
+.image_outer img {
+  width: 100%;
+}
